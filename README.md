@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-- 🔭 I’m currently working on building scalable workflows for analyzing spatialomics data -> have a look at [nf-core/spatialxe]([Link](https://github.com/nf-core/spatialxe))
+- 🔭 I’m currently working on building scalable workflows for analyzing spatialomics data, have a look at [nf-core/spatialxe]([Link](https://github.com/nf-core/spatialxe))
 - 🌱 I’m currently learning deep learning methods to better understand their use in image segmentation
 - 👯 I’m looking to collaborate on projects that implement deep-learning-based methods to better understand biological data
 - 💬 Ask me about bioinformatics pipelining, scaling workflows, deploying your workflows & code base optimizations
