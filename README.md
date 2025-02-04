@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building scalable workflows for analyzing spatialomics data, have a look at [nf-core/spatialxe](https://github.com/nf-core/spatialxe)
+- 🔭 I’m currently working on building scalable workflows for analyzing spatialomics data (Xenium), have a look at [nf-core/spatialxe](https://github.com/nf-core/spatialxe)
 - 🌱 I’m currently learning deep learning methods to better understand their use in image segmentation
-- 👯 I’m looking to collaborate on projects that implement deep-learning-based methods to better understand biological data
-- 💬 Ask me about bioinformatics pipelining, scaling workflows, deploying your workflows & code base optimizations
+- 👯 I’m looking to collaborate on projects that implement deep-learning-based methods to gain insights from biological data
+- 💬 Ask me about bioinformatics pipelining, scaling, deploying your workflows & code base optimizations
 - 📫 How to reach me: Email: khersameesh24@gmail.com
 
 
