@@ -37,9 +37,5 @@ Docker • GitHub Actions • AWS (Lambda, Batch, EC2)
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=khersameesh24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khersameesh24&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=khersameesh24&limit=3&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
