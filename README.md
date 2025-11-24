@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Sameesh 👋</h1>
+<h1 align="center">Hi, I'm Sameesh 👋</h1>
 <p align="center">
-  <em>Bioinformatics Engineer • Workflow Orchestrator • Spatial Omics Enthusiast</em>
+  <em>Bioinformatics Engineer • Workflow Engineer • Research Software Developer</em>
 </p>
 
 ---
@@ -19,13 +19,13 @@
 ## 🧰 Tech Stack (Quick Overview)
 
 **Languages & Tools:**  
-Python • R • Bash • Git • Conda  
+Python • R • Bash • Git • Conda
 
 **Bioinformatics:**  
-Nextflow • nf-core • Snakemake • Scanpy • Pandas • Numpy  
+Nextflow • nf-core • Snakemake 
 
-**DevOps / Cloud:**  
-Docker • GitHub Actions • AWS (Lambda, Batch, EC2)  
+**DevOps / Cloud / HPC:**  
+Docker • Singularity • GitHub Actions • AWS (Lambda, Batch, EC2)  
 
 ---
 
